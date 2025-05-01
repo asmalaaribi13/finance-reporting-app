@@ -81,4 +81,5 @@ If you have any questions, feedback, or collaboration opportunities, feel free t
 
 ---
 
-> 💡
+
+> 💡 *I'm open to freelance projects, internships, and full-time roles in frontend/backend development, data-driven apps, and dashboard design.*
