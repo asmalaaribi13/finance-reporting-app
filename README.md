@@ -38,9 +38,7 @@ This full-stack finance dashboard helps visualize, analyze, and predict financia
 
 ## 🏗 Architecture
 
-![Image](https://github.com/user-attachments/assets/2adf0d6d-be00-45ab-a593-9ac198375430)*
-
-
+![Image](https://github.com/user-attachments/assets/2adf0d6d-be00-45ab-a593-9ac198375430)
 ---
 
 ## 🧰 Tech Stack
