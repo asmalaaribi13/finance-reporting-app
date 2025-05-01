@@ -69,87 +69,16 @@ This full-stack finance dashboard helps visualize, analyze, and predict financia
 
 ---
 
-## 🗂 Project Structure
+---
 
+## 📫 Contact
 
-📦 mern-finance-dashboard ├── client/ # Frontend source │ ├── src/ │ │ ├── assets/ # Static files & images │ │ ├── components/ # Shared components (charts, tables, UI) │ │ ├── scenes/ # Pages/views │ │ ├── state/ # Redux slices & API service │ │ └── App.tsx, main.tsx │ └── index.html ├── server/ # Backend source │ ├── data/ # Static dataset for seed/mocking │ ├── models/ # Mongoose models │ ├── routes/ # API routes (modular) │ ├── app.js, index.js # Entry points ├── .env.local # Environment variables ├── Dockerfile / fly.toml # Deployment configuration └── README.md
+If you have any questions, feedback, or collaboration opportunities, feel free to reach out:
 
+- **👤 Name:** Asma Laaribi  
+- **📧 Email:** [asmalaaribi@outlook.com](mailto:asmalaaribi@outlook.com)  
+- **🌐 Portfolio:** [https://asmalaaribii.wixsite.com/portfolio](https://asmalaaribii.wixsite.com/portfolio)  
 
 ---
 
-## 🧱 Installation
-
-```bash
-git clone https://github.com/yourusername/mern-finance-dashboard.git
-cd mern-finance-dashboard
-
-
-# Install client dependencies
-
-cd client
-npm install
-
-# Install server dependencies
-
-cd ../server
-npm install
-
-
-🔐 Environment Variables
-Create .env.local in the server folder:
-
-MONGO_URL=mongodb+srv://<username>:<password>@cluster0.brjd0da.mongodb.net/
-PORT=5000
-
-▶️ Running the App
-Start Backend
-
-cd server
-npm run dev
-
-Start Frontend
-
-cd client
-npm run dev
-
-The app will be accessible at: http://localhost:5173
-
-
-## 🧠 Machine Learning Integration
-The backend uses regression-js to compute linear regression forecasts.
-
-Model is trained on numerical transaction data (e.g., time vs. revenue).
-
-Results are returned via /api/forecast.
-
-import regression from 'regression';
-const result = regression.linear([[0, 10], [1, 20], [2, 30]]);
-
-
-🖼 Frontend Features
-📊 Recharts-based financial graphs (Line, Bar, Pie)
-
-💻 SPA with protected routes and scene-based UI
-
-🔄 Asynchronous API integration with RTK Query
-
-💡 Dark/Light MUI theming
-
-📁 Modular Redux slice structure
-
-🚀 Deployment
-Frontend on Fly.io
-
-flyctl launch
-flyctl deploy
-
-📫 Contact
-Asma Laaribi
-📧 Email: asmalaaribi@outlook.com
-🌍 Portfolio: https://asmalaaribii.wixsite.com/portfolio
-
-
-
-
-
-
+> 💡
