@@ -9,19 +9,7 @@ A modern finance analytics and reporting web application built using the MERN st
 - [Overview](#-overview)
 - [Architecture](#-architecture)
 - [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Environment Variables](#-environment-variables)
-- [Running the App](#-running-the-app)
-- [API Documentation](#-api-documentation)
-- [Machine Learning Integration](#-machine-learning-integration)
-- [Frontend Features](#-frontend-features)
-- [Deployment](#-deployment)
-- [Security Notes](#-security-notes)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-
+  
 ---
 
 ## 🧩 Overview
